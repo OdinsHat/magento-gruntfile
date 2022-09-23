@@ -4,10 +4,10 @@
   "description": "A Gruntfile for managing Magento maintenance tasks",
   "main": "index.js",
   "dependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^1.5.3"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.3",
         "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-watch": "^0.6.1",
